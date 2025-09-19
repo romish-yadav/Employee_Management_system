@@ -1,7 +1,3 @@
-Here’s a README file for the provided **Employee Management System (EMS)** code:
-
----
-
 # Employee Management System (EMS)
 
 ## Description
@@ -138,8 +134,3 @@ This project is open-source. Feel free to use and modify the code for educationa
 ## Contact
 
 For any queries or issues, contact **Romish Yadav** (developer).
-
----
-
-This README file provides all the necessary information to understand the purpose, setup, and usage of the **Employee Management System** Java application.
-
